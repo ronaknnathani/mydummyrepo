@@ -11,3 +11,7 @@ def test_adder():
 
 def test_adder():
   assert adder(2, 4) == 6
+
+def test_adder():
+  assert adder(2, 5) == 7
+
