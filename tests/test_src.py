@@ -8,3 +8,6 @@ def test_adder():
 
 def test_adder():
   assert adder(2, 3) == 5
+
+def test_adder():
+  assert adder(2, 4) == 6
